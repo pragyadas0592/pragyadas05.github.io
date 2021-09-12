@@ -1,10 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+<img class="center-block img img-responsive" src="../images/profile.jpg" align="right" width="300" alt="profile">
 
 Describe yourself here. Dummy text ahead.
 
