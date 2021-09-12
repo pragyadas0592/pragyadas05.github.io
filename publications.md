@@ -1,48 +1,18 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications
+title: Publications and Preprints
 ---
 
+<i># Denotes equal contribution</i>
+
 <ul>
-<b>"Paper title #1"</b><br>
-		<i>List of authors</i><br>
-		Conference, Year<br>
+<b>7. Prospects for Multi-omics in the Microbial Ecology of Water Engineering. McDaniel E.A.</b>, Wahl S.A., Ishii S., Pinto A., Ziels R., Nielsen P.H., McMahon K.D., Williams R.B.H. <i>Water Research.</i> Sept. 2021. DOI: 10.1016/j.waterres.2021.117608 <br>
 		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
 	<br>
 	<br>
-	<li>
-		<b>"Paper title #1"</b><br>
-		<i>List of authors</i><br>
-		Conference, Year<br>
+<b>6. Metabolic differentiation of co-occurring Accumulibacter clades revealed through genome-resolved metatranscriptomics. McDaniel E.A.#,</b> Moya-Flores F.#, Keene Beach N., Camejo P.Y., Oyserman B.O., Kizaric M., Khor E.H., 
+Noguera D.R., McMahon K.D. <i>mSystems.</i> July 2021, 6 (4) e00474-21; DOI: 10.1128/mSystems.00474-21 <br>
 		<a href=""><div class="color-button">pdf</div></a><a href=""><div class="color-button">cite</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-</ul>
-
-<h2>Research Projects</h2>
-<ul>
-	<li>
-		<b>Project title</b><br>
-		University, Duration<br>
-		<i>Other details such as advisor's name may go here</i><br>
-		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Project title</b><br>
-		University, Duration<br>
-		<i>Other details such as advisor's name may go here</i><br>
-		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-</ul>
-
-<h2>Research Implementations</h2>
-<ul>
-	<li>
-		<b>Title #1</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-	<li>
-		<b>Title #2</b>: Brief description of this research implementation.<br>
-		<a href=""><div class="color-button">paper</div></a><a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
-	</li><br>
-</ul>
+	<br>
+	<br>
