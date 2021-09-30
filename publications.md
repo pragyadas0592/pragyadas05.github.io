@@ -7,8 +7,8 @@ title: Publications and Preprints
 <i># Denotes equal contribution. <a href="https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en">Google Scholar Profile.</a></i>
 
 <ul>
-<b>8. Prospects for Multi-omics in the Microbial Ecology of Water Engineering. <u>McDaniel E.A.</u></b>, Wahl S.A., Ishii S., Pinto A., Ziels R., Nielsen P.H., McMahon K.D., Williams R.B.H. <i>Water Research.</i> Sept. 2021. DOI: 10.1016/j.waterres.2021.117608 <br>
-		<a href="../pdfs/McDaniel_WaterRes_Omics_Review.pdf"><div class="color-button">pdf</div></a><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OJFxBWMAAAAJ&citation_for_view=OJFxBWMAAAAJ:YsMSGLbcyi4C"><div class="color-button">cite</div></a>
+<b>8. Prospects for Multi-omics in the Microbial Ecology of Water Engineering. <u>McDaniel E.A.</u></b>, Wahl S.A., Ishii S., Pinto A., Ziels R., Nielsen P.H., McMahon K.D., Williams R.B.H. <i>Water Research.</i> Oct. 2021. DOI: 10.1016/j.waterres.2021.117608 <br>
+		<a href="../pdfs/McDaniel2021_WaterResearch_publication.pdf"><div class="color-button">pdf</div></a><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OJFxBWMAAAAJ&citation_for_view=OJFxBWMAAAAJ:YsMSGLbcyi4C"><div class="color-button">cite</div></a>
 	<br>
 	<br>
 <b>7. Metabolic differentiation of co-occurring Accumulibacter clades revealed through genome-resolved metatranscriptomics. <u>McDaniel E.A.#,</u></b> Moya-Flores F.#, Keene Beach N., Camejo P.Y., Oyserman B.O., Kizaric M., Khor E.H., 
