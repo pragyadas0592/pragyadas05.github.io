@@ -7,6 +7,10 @@ title: Publications and Preprints
 <i># Denotes equal contribution. <a href="https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en">Google Scholar Profile.</a></i>
 
 <ul>
+<b> 11. Re-evaluation of the phylogenetic diversity and global distribution of the lineage Candidatus Accumulibacter. </b> Petriglieri F., Singleton C.M., Kondrotaite Z., Dueholm M.S., <b><u> McDaniel E.A. </u></b>, McMahon K.D., Nielsen P.H. <i> bioRxiv. Submitted. </i> Dec. 2021. DOI: 10.1101/2021.12.20473458. <br>
+	<a href="../pdfs/Petriglieri2021_preprint.pdf"><div class="color-button">pdf</div></a><a href="https://www.biorxiv.org/content/10.1101/2021.12.20.473458v1"><div class="color-button">cite</div></a>
+	<br>
+	<br>
 <b> 10. TbasCO: Trait-based Comparative ‘Omics Identifies Ecosystem-Level and Niche-Differentiating Adaptations of an Engineered Microbiome. <u> McDaniel E.A.# </u></b>, van Steenbrugge J.J.M.#, Noguera D.R., McMahon K.D., Raaijmakers J.M., Medema M.H., Oyserman B.O. <i> bioRxiv. Submitted. </i> Dec. 2021. DOI: 10.1101/2021.12.04.471239. <br>
 	 <a href="../pdfs/TbasCO_preprint.pdf"><div class="color-button">pdf</div></a><a href="https://www.biorxiv.org/content/10.1101/2021.12.04.471239v1"><div class="color-button">cite</div></a><a href="https://github.com/Jorisvansteenbrugge/TbasCO"><div class="color-button">software</div></a><a href="https://github.com/elizabethmcd/EBPR-MAGs"><div class="color-button">code</div></a><a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA714686"><div class="color-button">data</div></a><a href="https://figshare.com/projects/EBPR_Trait-Based_Comparative_Omics/90437"><div class="color-button">supplementary data</div></a>
 	<br>
