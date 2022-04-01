@@ -7,6 +7,10 @@ title: Publications and Preprints
 <i># Denotes equal contribution. <a href="https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en">Google Scholar Profile.</a></i>
 
 <ul>
+<b> 12. Environmental predictors of electroactive bacterioplankton in small boreal lakes. </b> Olmsted C.N., Ort R., Tran P.Q., <b><u> McDaniel E.A. </u></b>, Roden E.E., Bond D.R., He S., McMahon K.D. <i> bioRxiv. Submitted. </i> Mar 2022. DOI: 10.1101/2022.03.26.485925. <br>
+	<a href="../pdfs/Olmsted2022.pdf"><div class="color-button">pdf</div></a><a href="https://www.biorxiv.org/content/10.1101/2022.03.26.485925v1"><div class="color-button">cite</div></a>
+	<br>
+	<br>
 <b> 11. Re-evaluation of the phylogenetic diversity and global distribution of the lineage Candidatus Accumulibacter. </b> Petriglieri F., Singleton C.M., Kondrotaite Z., Dueholm M.S., <b><u> McDaniel E.A. </u></b>, McMahon K.D., Nielsen P.H. <i> bioRxiv. Submitted. </i> Dec. 2021. DOI: 10.1101/2021.12.20473458. <br>
 	<a href="../pdfs/Petriglieri2021_preprint.pdf"><div class="color-button">pdf</div></a><a href="https://www.biorxiv.org/content/10.1101/2021.12.20.473458v1"><div class="color-button">cite</div></a>
 	<br>
