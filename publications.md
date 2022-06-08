@@ -11,16 +11,16 @@ title: Publications and Preprints
 	<a href="../pdfs/Olmsted2022.pdf"><div class="color-button">pdf</div></a><a href="https://www.biorxiv.org/content/10.1101/2022.03.26.485925v1"><div class="color-button">cite</div></a>
 	<br>
 	<br>
-<b> 11. Re-evaluation of the phylogenetic diversity and global distribution of the lineage Candidatus Accumulibacter. </b> Petriglieri F., Singleton C.M., Kondrotaite Z., Dueholm M.S., <b><u> McDaniel E.A. </u></b>, McMahon K.D., Nielsen P.H. <i> bioRxiv. Submitted. </i> Dec. 2021. DOI: 10.1101/2021.12.20473458. <br>
-	<a href="../pdfs/Petriglieri2021_preprint.pdf"><div class="color-button">pdf</div></a><a href="https://www.biorxiv.org/content/10.1101/2021.12.20.473458v1"><div class="color-button">cite</div></a>
-	<br>
-	<br>
-<b> 10. TbasCO: Trait-based Comparative ‘Omics Identifies Ecosystem-Level and Niche-Differentiating Adaptations of an Engineered Microbiome. <u> McDaniel E.A.# </u></b>, van Steenbrugge J.J.M.#, Noguera D.R., McMahon K.D., Raaijmakers J.M., Medema M.H., Oyserman B.O. <i> bioRxiv. In Review.. </i> Dec. 2021. DOI: 10.1101/2021.12.04.471239. <br>
+<b> 11. TbasCO: Trait-based Comparative ‘Omics Identifies Ecosystem-Level and Niche-Differentiating Adaptations of an Engineered Microbiome. <u> McDaniel E.A.# </u></b>, van Steenbrugge J.J.M.#, Noguera D.R., McMahon K.D., Raaijmakers J.M., Medema M.H., Oyserman B.O. <i> bioRxiv. In Review.. </i> Dec. 2021. DOI: 10.1101/2021.12.04.471239. <br>
 	 <a href="../pdfs/TbasCO_preprint.pdf"><div class="color-button">pdf</div></a><a href="https://www.biorxiv.org/content/10.1101/2021.12.04.471239v1"><div class="color-button">cite</div></a><a href="https://github.com/Jorisvansteenbrugge/TbasCO"><div class="color-button">software</div></a><a href="https://github.com/elizabethmcd/EBPR-MAGs"><div class="color-button">code</div></a><a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA714686"><div class="color-button">data</div></a><a href="https://figshare.com/projects/EBPR_Trait-Based_Comparative_Omics/90437"><div class="color-button">supplementary data</div></a>
 	<br>
 	<br>
-<b> 9. Microbial cysteine production is a source of hydrogen sulfide in oxic freshwater lakes. </b> Tran P.Q.#, Bachand S.C#., Hotvedt J.C.#, Kieft K., <b><u> McDaniel E.A. </u></b>, McMahon K.D., Anantharaman K. <i> bioRxiv. </i> Dec. 2021. DOI: 10.1101/2021.11.30.467465 <br>
+<b> 10. Microbial cysteine production is a source of hydrogen sulfide in oxic freshwater lakes. </b> Tran P.Q.#, Bachand S.C#., Hotvedt J.C.#, Kieft K., <b><u> McDaniel E.A. </u></b>, McMahon K.D., Anantharaman K. <i> bioRxiv. Submitted. </i> Dec. 2021. DOI: 10.1101/2021.11.30.467465 <br>
 	<a href="../pdfs/Tran2021_preprint.pdf"><div class="color-button">pdf</div></a><a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=OJFxBWMAAAAJ&citation_for_view=OJFxBWMAAAAJ:LkGwnXOMwfcC"><div class="color-button">cite</div></a>
+	<br>
+	<br>
+<b> 9. Re-evaluation of the phylogenetic diversity and global distribution of the lineage Candidatus Accumulibacter. </b> Petriglieri F., Singleton C.M., Kondrotaite Z., Dueholm M.S., <b><u> McDaniel E.A. </u></b>, McMahon K.D., Nielsen P.H. <i> mSystems. </i> April 2022. DOI: 10.1128/msystems.00016-22. <br>
+	<a href="../pdfs/Petriglieri2022_msystems.00016-22.pdf"><div class="color-button">pdf</div></a><a href="https://journals.asm.org/doi/10.1128/msystems.00016-22"><div class="color-button">cite</div></a>
 	<br>
 	<br>
 <b>8. Prospects for Multi-omics in the Microbial Ecology of Water Engineering. <u>McDaniel E.A.</u></b>, Wahl S.A., Ishii S., Pinto A., Ziels R., Nielsen P.H., McMahon K.D., Williams R.B.H. <i>Water Research.</i> Oct. 2021. DOI: 10.1016/j.waterres.2021.117608 <br>
