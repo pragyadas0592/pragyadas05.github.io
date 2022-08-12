@@ -12,4 +12,3 @@ The best way to contact me is in the above mentioned email address. My specific 
 
 I believe in updating my skills and implementing them when required. As a student and a former employee I have had my fair share of experiences that have made me adaptable to different working environments. Looking forward to join an excellent and a dynamic working environment. In case of any questions or other required information kindly reach out via the email address provided above.
 
-For each manuscript on my [Publications](https://elizabethmcd.github.io/publications/) 
