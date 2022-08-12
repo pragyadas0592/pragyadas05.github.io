@@ -1,13 +1,19 @@
 
-- title: "Research"
-  href: "/research/"
+- title: "Education"
+  href: "/education/"
 
-- title: "Publications"
-  href: "/publications/"
+- title: "Projects"
+  href: "/projects/"
+ 
+ - title: "Experience"
+  href: "/experience/"
+  
+  - title: "Awards"
+  href: "/awards/"
 
 - title: "CV"
   href: "/cv/"
   
-- title: "Contact"
+    - title: "Contact"
   href: "/contact/"
-
+  
