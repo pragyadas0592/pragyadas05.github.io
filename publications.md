@@ -18,7 +18,7 @@ Published by Taylor Francis Group<br>
 <b>Authors: S.K. Chandniha, M. Arora, L. Pal, A. Kumar, P. Das, G.K. Das</b><br>
 Climatic variability and its behavior is a complex phenomenon that is directly associated with uncertainties.In the climate change study, particularly in hydrological aspects, it is necessary to identify the parameters (predictors) that are directly or indirectly associated with predictands. The forecasted results are directly associated with the selection of predictors.
  <br>
-	 <a href="../pdfs/TbasCO_preprint.pdf"><div class="color-button">pdf</div></a><a href="https://www.biorxiv.org/content/10.1101/2021.12.04.471239v1"><div class="color-button">cite</div></a><a href="https://github.com/Jorisvansteenbrugge/TbasCO"><div class="color-button">software</div></a><a href="https://github.com/elizabethmcd/EBPR-MAGs"><div class="color-button">code</div></a><a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA714686"><div class="color-button">data</div></a><a href="https://figshare.com/projects/EBPR_Trait-Based_Comparative_Omics/90437"><div class="color-button">supplementary data</div></a>
+	 <a href="https://github.com/pragyadas0592/pragyadas0592.github.io/blob/master/Chapter_23.pdf"><div class="color-button">pdf</div></a>
 	<br>
 	<br>
 <b> 10. Microbial cysteine production is a source of hydrogen sulfide in oxic freshwater lakes. </b> Tran P.Q.#, Bachand S.C#., Hotvedt J.C.#, Kieft K., <b><u> McDaniel E.A. </u></b>, McMahon K.D., Anantharaman K. <i> bioRxiv. Submitted. </i> Dec. 2021. DOI: 10.1101/2021.11.30.467465 <br>
