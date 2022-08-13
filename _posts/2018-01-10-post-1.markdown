@@ -1,20 +1,24 @@
 ---
-layout: post
-title:  Title of post 1
-date: 2018-01-10 15:10:00
-description: An apt description of the post
-categories: [rnn, discussion]
+layout: archive
+title: "Awards"
+permalink: /awards/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
-Write your post content here in normal `markdown`. An example post is shown below for reference. 
+{% include base_path %}
 
-### Introduction
 
-Recurrent Neural Networks and their variations are very likely to overfit the training data. This is due to the large network formed by unfolding each cell of the RNN, and *relatively* small number of parameters (since they are shared over each time step) and training data. Thus, the perplexities obtained on the test data are often quite larger than expected. Several attempts have been made to minimize this problem using varied **regularization** techniques. This paper tackles this issue by proposing a model that combines several of such existing methods.
+* Ranked #5 in Kaggle Half Earth Challenge *Herbarium* 2022
+* Contributed to Arctic Code Vault, GitHub 2020
+  * GitHub has partnered with the Long Now Foundation, the Internet Archive, the Software Heritage Foundation, Arctic World Archive, Microsoft Research, the Bodleian Library, and Stanford Libraries to ensure the long-term preservation of the world's open source software. We will protect this priceless knowledge by storing multiple copies, on an ongoing basis, across various data formats and locations, including a very-long-term archive designed to last at least 1,000 years.
+* PhD scholarship from ANR under ANITI project 2019-2022
+  * The French government, in consultation with an international jury of experts, has selected ANITI to be one of four, highly visible interdisciplinary institutes spearheading AI research, education, and economic development in France. ANITI has targeted as strategic areas mobility and transportation, and robotics/cobotics for the industry of the future.
+* Charpak Masters Scholarship from French Government, 2017
 
-*Merity et al*'s model is a modification of the standard **LSTM** in which *DropConnect* is applied to the hidden weights in the *recurrent* connections of the LSTM for regularization. The dropout mask for each weight is preserved and the same mask is used across all time steps, thereby adding negligible computation overhead. Apart from this, several other techniques have been incorporated :
-* **Variational dropout** : The same dropout mask is used for a particular recurrent connection in both the forward and backward pass for all time steps. Each input of a mini-batch has a separate dropout mask, which ensures that the regularizing effect due to it isn't identical across different inputs.
-* **Embedding dropout** : Dropout with dropout probability $$p_e$$ is applied to word embedding vectors, which results in new word vectors which are identically zero for the dropped words. The remaining word vectors are scaled by $$\frac{1}{1-p_e}$$ as compensation.
+
+
 * **AR and TAR** : AR (Activation Regularization) and TAR (Temporal Activation Regularization) are modifications of $$L_2$$ regularization, wherein the standard technique is applied to dropped *output activations* and dropped *change in output activations* respectively. Mathematically, the additional terms in the cost function $$J$$ are (here $$\alpha$$ and $$\beta$$ are scaling constants and $$\textbf{D}$$ is the dropout mask) :
 
 $$
