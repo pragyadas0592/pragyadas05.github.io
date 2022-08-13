@@ -14,6 +14,7 @@ Advisor: Mr. Nanlok Nimlang (PhD Research Fellow, IMT MINES, Research Center, Al
 	<br>
 		<b>Project title 2</b>: <b>Hydrological Modeling of Trends in Seasonal Water Balance Components at River Basin Scale Using Time Series Land Use/Land Cover Data (MTech Thesis :  July 2016-July 2017).</b>
 	<br>
+	<br>
 To prepare datasets for the VIC model using MODIS data and to compute and compare the variation in water balancing components at river basin scale for predicting the LULC change and to generate the required accuracy of the Variable Infiltration Capacity (VIC) model.
 	<br>
 Advisor: Dr. P.V. Raju, Scientist ‘F’, HOD Water Resource Division, National Remote Sensing Center, Hyderabad, Telangana, India.
@@ -23,4 +24,3 @@ This project focuses on recycling agriculture residue by combining it with concr
 	<br>
 Advisor: Ashay D Shende, Assitant Professor, KDK College, Nagpur, Maharashtra, India.
 	<br>
-</ul>
