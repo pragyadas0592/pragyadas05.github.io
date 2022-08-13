@@ -5,7 +5,7 @@ title: Projects
 ---
 
 Here is a list of my Research/Non-Research projects. For further deatails kindly contact via. email.
-	
+	</li><br>
 		<b>Project title #1</b>: Modeling Of Malaria in Nigeria-Bibliographical Survey Report (MS Summer Internship : June-July 2021 Hotspot).
 A bibliographical survey report on various models that were used in order to study the spread of malaria in Nigeria. Various environmental factors were taken into consideration while selecting the models based on which there efficiency was compared and studied for the internship report.
         </li>		
