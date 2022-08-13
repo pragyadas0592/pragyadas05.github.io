@@ -4,11 +4,11 @@ permalink: /publications/
 title: Publications and Preprints
 ---
 
-<i># Denotes equal contribution. <a href="https://scholar.google.com/citations?user=OJFxBWMAAAAJ&hl=en">Google Scholar Profile.</a></i>
+<i># Denotes equal contribution. 
 
 <ul>
-<b> 12. Environmental predictors of electroactive bacterioplankton in small boreal lakes. </b> Olmsted C.N., Ort R., Tran P.Q., <b><u> McDaniel E.A. </u></b>, Roden E.E., Bond D.R., He S., McMahon K.D. <i> bioRxiv. Submitted. </i> Mar 2022. DOI: 10.1101/2022.03.26.485925. <br>
-	<a href="../pdfs/Olmsted2022.pdf"><div class="color-button">pdf</div></a><a href="https://www.biorxiv.org/content/10.1101/2022.03.26.485925v1"><div class="color-button">cite</div></a>
+<b> 1.Presented paper on a National Seminar “Sustainable Rice production Technology for Increasing the farmer’s income” titled - “Hydrological Modelling of Mahanadi Basin and their tributary exist in Chhattisgarh and part of Odisha” dated 20-21 Jan’2018 Organized by Indira Gandhi Agricultural University, Raipur (C.G.), India.
+	<a href="https://krishikosh.egranth.ac.in/handle/1/5810049155?mode=full"><div class="color-button">pdf</div></a><a href="https://krishikosh.egranth.ac.in/handle/1/5810049155?mode=full"><div class="color-button">cite</div></a>
 	<br>
 	<br>
 <b> 11. TbasCO: Trait-based Comparative ‘Omics Identifies Ecosystem-Level and Niche-Differentiating Adaptations of an Engineered Microbiome. <u> McDaniel E.A.# </u></b>, van Steenbrugge J.J.M.#, Noguera D.R., McMahon K.D., Raaijmakers J.M., Medema M.H., Oyserman B.O. <i> bioRxiv. In Review.. </i> Dec. 2021. DOI: 10.1101/2021.12.04.471239. <br>
