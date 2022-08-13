@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching and Mentoring
+permalink: /Experience/
+title: Work Experience
 ---
 
 
