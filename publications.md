@@ -18,6 +18,6 @@ Published by Taylor Francis Group<br>
 <b>Authors: S.K. Chandniha, M. Arora, L. Pal, A. Kumar, P. Das, G.K. Das</b><br>
 Climatic variability and its behavior is a complex phenomenon that is directly associated with uncertainties.In the climate change study, particularly in hydrological aspects, it is necessary to identify the parameters (predictors) that are directly or indirectly associated with predictands. The forecasted results are directly associated with the selection of predictors.
  <br>
-	 <a href="https://github.com/pragyadas0592/pragyadas0592.github.io/blob/master/Chapter_23.pdf"><div class="color-button">pdf</div></a>
+	 <a href="https://github.com/pragyadas0592/pragyadas0592.github.io/blob/master/pdfs/Chapter_23.pdf"><div class="color-button">pdf</div></a>
 	<br>
 	<br>
