@@ -4,14 +4,21 @@ permalink: /publications/
 title: Publications and Preprints
 ---
 
-<i># Denotes equal contribution. 
+<i>
 
 <ul>
-<b> 1.Presented paper on a National Seminar “Sustainable Rice production Technology for Increasing the farmer’s income” titled - “Hydrological Modelling of Mahanadi Basin and their tributary exist in Chhattisgarh and part of Odisha” dated 20-21 Jan’2018 Organized by Indira Gandhi Agricultural University, Raipur (C.G.), India.
+<b> 1.Presented paper on a National Seminar “Sustainable Rice production Technology for Increasing the farmer’s income” titled - “Hydrological Modelling of Mahanadi Basin and their tributary exist in Chhattisgarh and part of Odisha”</b>, dated 20-21 Jan’2018 Organized by Indira Gandhi Agricultural University, Raipur (C.G.), India.
+<b>Authors: Pragya Das, P.V. Raju and Chilka Sharma 9th National Seminar IGKVV, India.</b>
+Change in crop sown in a region based on the water balance component trend analysis for a particular region, LULC can be managed efficiently.
 	<a href="https://krishikosh.egranth.ac.in/handle/1/5810049155?mode=full"><div class="color-button">pdf</div></a><a href="https://krishikosh.egranth.ac.in/handle/1/5810049155?mode=full"><div class="color-button">cite</div></a>
 	<br>
 	<br>
-<b> 11. TbasCO: Trait-based Comparative ‘Omics Identifies Ecosystem-Level and Niche-Differentiating Adaptations of an Engineered Microbiome. <u> McDaniel E.A.# </u></b>, van Steenbrugge J.J.M.#, Noguera D.R., McMahon K.D., Raaijmakers J.M., Medema M.H., Oyserman B.O. <i> bioRxiv. In Review.. </i> Dec. 2021. DOI: 10.1101/2021.12.04.471239. <br>
+<b> 2.Chapter in "Projection of future precipitation over Gangotri glacier at Himalayan belt using CMIP5 Climate Model : 2021"
+Chapter 23 ”Advances in Hydrology and Climate Change: Historical Trends and New Approaches in Water Resources Management”.</b><br>
+Published by Taylor Francis Group<br> 
+</b>Authors: S.K. Chandniha, M. Arora, L. Pal, A. Kumar, P. Das, G.K. Das</b>
+Climatic variability and its behavior is a complex phenomenon that is directly associated with uncertainties.In the climate change study, particularly in hydrological aspects, it is necessary to identify the parameters (predictors) that are directly or indirectly associated with predictands. The forecasted results are directly associated with the selection of predictors.
+ <br>
 	 <a href="../pdfs/TbasCO_preprint.pdf"><div class="color-button">pdf</div></a><a href="https://www.biorxiv.org/content/10.1101/2021.12.04.471239v1"><div class="color-button">cite</div></a><a href="https://github.com/Jorisvansteenbrugge/TbasCO"><div class="color-button">software</div></a><a href="https://github.com/elizabethmcd/EBPR-MAGs"><div class="color-button">code</div></a><a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA714686"><div class="color-button">data</div></a><a href="https://figshare.com/projects/EBPR_Trait-Based_Comparative_Omics/90437"><div class="color-button">supplementary data</div></a>
 	<br>
 	<br>
