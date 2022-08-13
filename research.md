@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /research/
+permalink: /AWARDS/
 title: Microbial Ecology of Engineered Water Systems
 ---
 
