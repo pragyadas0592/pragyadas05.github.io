@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 
 * Ranked #5 in Kaggle Half Earth Challenge *Herbarium* 2022
 * Contributed to Arctic Code Vault, GitHub 2020
