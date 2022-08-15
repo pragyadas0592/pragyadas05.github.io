@@ -8,4 +8,4 @@ permalink: /cv/
 
 <p>A copy of my basic CV is provided below. 
 
-<p class='text-right'><a href='https://docs.google.com/document/d/1qFTrO9PWjkxA4isv8HJcCKOPPxEzBRKc/edit' target='_blank'><iframe width='100%' height='900px' frameborder='0' scrolling='yes' class='embed-responsive-item' src='https://docs.google.com/document/d/1qFTrO9PWjkxA4isv8HJcCKOPPxEzBRKc/preview' allowfullscreen></iframe>
+<p class='text-right'><a href='https://docs.google.com/document/d/1MENVVFVqHke02eQ8leNeJafdb9pf5uUs/edit' target='_blank'><iframe width='100%' height='900px' frameborder='0' scrolling='yes' class='embed-responsive-item' src='https://docs.google.com/document/d/1MENVVFVqHke02eQ8leNeJafdb9pf5uUs/preview' allowfullscreen></iframe>
